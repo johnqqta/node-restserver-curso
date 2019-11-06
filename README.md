@@ -1,5 +1,5 @@
 ## Aplicacion RESTSERVER CON EXPRESS Y NODE BASICO
-# Peticiones:
+### Peticiones:
 1. GET:
     - localhost
     - localhost/id/rol
@@ -24,7 +24,7 @@
 5. Manejo De Codigos De Status HTTP
     - localhost/create con informacion x-www-form-urlencoded
 
-# NOTAS:
+### NOTAS:
 1. No olvidar usar npm install
 2. para la peticion de manejo de codigos de error se debe enviar una variable nombre para que respoda 200.
    Si esta variable no existe responde con 400
